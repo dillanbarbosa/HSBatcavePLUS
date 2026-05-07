@@ -1,23 +1,20 @@
 [
-{
-    "imagem":"batmanAB.webp" ,
-    "nome":"Absolute Batman" ,
-    "preco": "20,50",
-    "link":"prod.html"
-
-},
-{
-    "imagem":"batmanAB.webp" ,
-    "nome":"Absolute Batman" ,
-    "preco": "20,50",
-    "link":"prod.html"
-
-},
-{
-    "imagem":"batmanAB.webp" ,
-    "nome":"Absolute Batman" ,
-    "preco": "20,50",
-    "link":"prod.html"
-
-}
+    {
+        "imagem": "batmanAB.png",
+        "nome": "Absolute Batman",
+        "preco": "20,50",
+        "link": "prod.html"
+    },
+    {
+        "imagem": "spider.png",
+        "nome": "Ultimate Spider-Man(2025)",
+        "preco": "32,50",
+        "link": "prod.html"
+    },
+    {
+        "imagem": "batmanAB.png",
+        "nome": "Absolute Batman",
+        "preco": "20,50",
+        "link": "prod.html"
+    }
 ]
